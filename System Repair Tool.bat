@@ -1,7 +1,7 @@
 @echo off
 title System Repair Tool
 
-chcp 866 >nul
+chcp 65001 >nul
 color 0B
 
 net session >nul 2>&1
@@ -10,6 +10,8 @@ if %errorlevel% neq 0 (
     powershell -Command "Start-Process '%~f0' -Verb RunAs"
     exit /b
 )
+chcp 65001 >nul
+color 0B
 
 echo.
 echo =====================================
