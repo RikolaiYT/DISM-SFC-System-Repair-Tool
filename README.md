@@ -30,7 +30,7 @@
 ## 📦 Скачать
 
 👉 Нажмите **Code → Download ZIP**
-или скачайте напрямую файл `repair.bat`
+или скачайте напрямую файл `System Repair Tool.bat`
 
 ## 👤 Автор
 
