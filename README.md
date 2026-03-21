@@ -25,7 +25,7 @@
 
 ## 📷 Пример работы
 
-![Preview](screenshots/preview.png)
+![Preview](изображение_2026-03-21_235430617.png)
 
 ## 📦 Скачать
 
